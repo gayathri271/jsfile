@@ -1,6 +1,6 @@
 // Question 11: Shopping Cart Operations
 
-var a=["Milk", "Bread", "Eggs", "Butter"];
+var a= ["Milk", "Bread", "Eggs", "Butter"];
 console.log(a);
 console.log(a.indexOf("Eggs"));
 a[2]="Cheese"
