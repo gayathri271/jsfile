@@ -17,7 +17,7 @@ console.log(e.toUpperCase());
 
 var f="good morning";
 console.log(f)
-g= f.slice(5,22)
+g= f.slice(5,12)
 console.log(g);
 lin=g.slice(-1)
 console.log(lin.toUpperCase())

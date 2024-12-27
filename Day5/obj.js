@@ -7,7 +7,7 @@
 var details={
     obj1 :"Gayathri",
     obj2 : "Ratlavath",
-    age :27
+    age :22
 }
 console.log(details.obj1);
 details.city="Hyderabad";
